@@ -1,4 +1,4 @@
-# thunderbird-rt-r-scripts
+# thunderbird-rt-r-scripts - These scripts are very kludgey :-) and will be obsolete once we get full BQ access to our data.
 ## 2024-10-20 Spike in Thunderbird and Firefox questions after AAQ sidebar deployed Week 28
 - We believe the spike in TB desktop questions is due to: the new AAQ widget introduced on July 8, 2024 as part of [SUMO release 1.0.9](https://github.com/mozilla/kitsune/releases/tag/1.0.9) See also the [announcement in SUMO Community Discussions Forum](https://support.mozilla.org/en-US/forums/contributors/717059?last=87867)) ; specifically the AAQ widget implemented by this PR:  [Update AAQ widget redirects and text #6076](https://github.com/mozilla/kitsune/pull/6076). And of course some of the spike is caused by Thunderbird 128 issues.
 	- Seburo: `I agree with cor-el, the AAQ prompt is not something we need.  It is in the sidebar on desktop, but is the centre on mobile and is kind of in the way a bit.`
